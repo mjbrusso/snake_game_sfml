@@ -1,4 +1,3 @@
-// From: https://www.sfml-dev.org/tutorials/2.5/graphics-draw.php#the-drawing-window
 #include <SFML/Graphics.hpp>
 #include <cstdlib>
 #include <list>
